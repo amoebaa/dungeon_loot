@@ -1,11 +1,13 @@
 Mod "Dungeon Loot" [dungeon_loot]
 =================================
 Copyright (c) 2015 BlockMen <blockmen2015@gmail.com>
+and Amoeba <amoeba@iki.fi>
 
-Version: 1.0 alpha
+
+Version: 1.2 beta
 
 
-A simple mod that add to dungeons with more than 4 rooms chests that contain some loot.
+A simple mod that add to dungeons chests that contain some loot.
 
 
 License: 
@@ -20,7 +22,7 @@ Media(if not stated differently):
 
 Github:
 ~~~~~~~
-https://github.com/BlockMen/dungeon_loot
+https://github.com/amoebaa/dungeon_loot
 
 
 Forum:
